@@ -1,4 +1,3 @@
 hello world.
-<<<<<<< HEAD
 create a new is quick AND simple.
-
+aaa
