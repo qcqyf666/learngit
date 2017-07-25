@@ -1,2 +1,6 @@
 hello world.
-create a new is quick & simple.
+<<<<<<< HEAD
+create a new is quick AND simple.
+=======
+create a new is quick AND simple.
+>>>>>>> feature1
